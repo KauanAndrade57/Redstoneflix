@@ -1,0 +1,120 @@
+body{
+
+background: rgb(19, 6, 6);
+color: white;
+margin: 0px;
+font-family: "Nanum Gothic", sans-serif;
+margin-bottom: 100px;
+}
+
+
+header{
+border-bottom: solid 2px rgb(235, 25, 25);
+padding: 20px;
+font-size: 31px;
+color: rgb(235, 25, 25);
+padding-left: 20px;
+
+}
+
+.chamada {
+
+background: rgb(85 23 30);
+padding-bottom: 80px;
+padding-top: 30px;
+display: flex;
+justify-content: center;
+
+}
+
+.nome-video{
+
+margin-right: 5%;
+
+}
+
+h1{
+
+font-size: 32px ;
+
+}
+
+img{
+height:300px
+
+
+}
+
+.farms{
+
+display:flex;
+gap: 30px;
+overflow:auto;
+
+}
+
+.fila {
+
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+
+}
+
+.farms img{
+
+opacity:0.5;
+
+}
+
+.farms img:hover{
+
+    opacity:1.0;
+    border:1px solid greenyellow;
+}
+
+.fila h2{
+
+    color: rgb(235, 25, 25);
+}
+
+.construçao {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    
+    }
+
+    .construçao h3{
+
+        color: rgb(25, 25, 235);
+    }
+
+    .builds{
+
+        display:flex;
+        gap: 30px;
+        overflow:auto;
+        
+        }
+
+        .builds img{
+
+            opacity:0.5;
+            
+            }
+
+            .builds img:hover{
+
+                opacity:1.0;
+                border:1px solid greenyellow;
+            }
+
+            .Redstone{
+        height:65px; 
+         width:60px;
+
+            }
+            
+
